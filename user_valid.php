@@ -119,7 +119,7 @@ $provjera->valid();
 <form action="" method="post">
     <input type="text" name="ime" placeholder="ime"><br><br>
     <input type="text" name="mail" placeholder="e-mail"><br><br>
-    <input type="number" name="godine" placeholder="broj godina"><br><br>
+    <input type="text" name="godine" placeholder="broj godina"><br><br>
     
     <input type="submit" name="submit" value="Pošalji">
 </form>
