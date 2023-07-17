@@ -125,4 +125,4 @@ $provjera->valid();
 </form>
 
 <br>
-<a href="">GitHub kod</a>
+<a href="https://github.com/zopaj63/uservalid" target="_blank">GitHub kod</a>
